@@ -23,9 +23,9 @@ That said — the important part is:
 
 Here are a few pictures from the project:
 
-![Projector Module](Picture/Projector.JPG)  
-![Shop Listing](Picture/Shop.png)  
-![Projection on the Wall](Picture/Wall.JPG)
+![Projector Module](Pictures/Projector.JPG)  
+![Shop Listing](Pictures/Shop.png)  
+![Projection on the Wall](Pictures/Wall.JPG)
 
 ---
 
