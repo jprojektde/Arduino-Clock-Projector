@@ -1,5 +1,5 @@
 # Arduino-Clock-Projector  
-A simple little projector module for your DIY alarm clock
+A simple little projector module for your DIY alarm clock 🕒✨
 
 Building an alarm clock **with a real wall projector** is surprisingly hard.  
 Until now there wasn’t really an easy way to just *buy a small module* that can project the time cleanly.
@@ -15,7 +15,17 @@ It’s super affordable, but it also has a few downsides:
 - Plus the **":"** in the middle
 
 That said — the important part is:  
-We only need the **LCD**, the **rubber contact piece**, and the **lens** from the projector.
+✅ We only need the **LCD**, the **rubber contact piece**, and the **lens** from the projector.
+
+---
+
+## Pictures
+
+Here are a few pictures from the project:
+
+![Projector Module](Picture/Projector.JPG)  
+![Shop Listing](Picture/Shop.png)  
+![Projection on the Wall](Picture/Wall.JPG)
 
 ---
 
@@ -36,7 +46,7 @@ I also included a small **Arduino test sketch** so you can try it immediately.
 **Basic setup:**
 - Connect the module to your Arduino
 - Add a small resistor for the LED
-- Power it up and enjoy the magic
+- Power it up and enjoy the magic 😄
 
 If the image isn’t sharp, just **twist the lens holder** until the projection is in focus.
 
@@ -58,4 +68,4 @@ https://www.reichelt.de/de/de/shop/produkt/led_5mm_bedrahtet_rot_20000_mcd_15_-3
 
 ---
 
-Have fun testing and tinkering!
+Have fun testing and tinkering! 😄🔧
